@@ -1,0 +1,2 @@
+scan_idx,phant_id,localization_error_mm,iou,dice,scr_db,cnr
+1,A13F14,29.88607242496986,0.0,0.0,6.155547374896658,2.9234857431860775
