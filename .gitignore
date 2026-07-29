@@ -1,3 +1,4 @@
 *.pickle
 datasets/
 old files/
+__pycache__/
